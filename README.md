@@ -1,2 +1,2 @@
 # Grupp-Arbete
-Grupparbete med Matilde Lukas och Frode 
+Grupparbete med Matilda Lukas och Frode 

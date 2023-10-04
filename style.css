@@ -1,0 +1,40 @@
+body {
+    align-items: center;
+    background-image: url('https://getwallpapers.com/wallpaper/full/a/d/c/509260.jpg');
+    background-size: cover; /* This makes the image cover the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+  }
+
+.top_nav {
+  background-color: burlywood;
+  margin-right: 70rem;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+}
+
+.header {
+  background-color:burlywood;
+  margin-right: 70rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.center {
+  margin:auto;
+}
+
+.bottom_nav {
+  background-color: burlywood;
+  margin-right: 70rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.article {
+    text-align: center;
+    align-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: burlywood;
+    margin-right: 70rem;
+}
